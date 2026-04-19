@@ -54,8 +54,8 @@ Mental-Health-Chatbot/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Arpitha-PN/MENTAL_HEALTH_CHATBOT.git
+cd MENTAL_HEALTH_CHATBOT
 ```
 
 ---
@@ -84,15 +84,7 @@ Create a `.env` file and add:
 OPENAI_API_KEY=your_api_key_here
 ```
 
-⚠️ Do NOT upload `.env` file to GitHub.
 
----
-
-## 📸 Screenshots (Optional)
-
-Add screenshots of your project UI here.
-
----
 
 ## 🎯 Use Case
 
